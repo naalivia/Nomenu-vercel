@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/conecta.html  ": {
+    "api/Principal.html  ": {
       "runtime": "vercel-php@0.5.2"
     }
   }
